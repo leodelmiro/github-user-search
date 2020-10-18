@@ -1,10 +1,16 @@
 import React from 'react';
+import { Link } from 'react-router-dom';
 import './styles.css';
 
 const Headbar = () => (
-    <div className="headbar">
-        <h2 className="headbar-title">Bootcamp DevSuperior</h2>
-    </div>
+    <header className="headbar">
+        <Link 
+            to="/"
+            className="headbar-title"
+        >
+            Bootcamp DevSuperior
+        </Link>
+    </header>
 );
 
 export default Headbar;

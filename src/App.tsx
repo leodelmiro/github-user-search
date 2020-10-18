@@ -1,9 +1,9 @@
 import React from 'react';
-import Headbar from './core/components/Headbar';
+import Routes from './Routes';
 
 function App() {
   return (
-    <Headbar/>
+    <Routes/>
   );
 }
 
