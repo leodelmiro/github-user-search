@@ -1,12 +1,15 @@
 import React from 'react';
 import './styles.css';
 
-const Button = () => (
+type Props = {
+    title: string;
+}
+
+const Button = ({title}: Props) => (
     <button 
-        type="button"
         className="button"
     >
-        Encontrar
+        {title}
     </button>
 );
 
