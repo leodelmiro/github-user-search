@@ -1,0 +1,25 @@
+.home-content {
+    margin: 180px 0 0 120px;
+}
+
+.home-content-title {
+    margin-bottom: 24px;
+    font-family: 'Red Hat Display', sans-serif;
+    font-size: 48px;
+    line-height: 64px;
+    color: #062847;
+}
+
+.home-content-subtitle {
+    margin-bottom: 50px;
+    width: 615px;
+    font-family: 'Red Hat Display', sans-serif;
+    font-size: 20px;
+    line-height: 36px;
+    color: #5A6774;
+}
+
+.home-content-subtitle a{
+    color: #1890ff;
+    text-decoration: none;
+}
