@@ -54,16 +54,17 @@
 
 .upper-data{
     display: flex;
+    margin-left:60px;
 }
 
 .card-base-profile-info {
-    margin-left:60px;
     width: 100%;
 }
 
 .profile-field-container {
     height: 250px;
     padding: 5px 15px 10px 15px;
+    margin-left:60px;
     background: #FFFFFF;
     border: 1px solid #D9D9D9;
     box-sizing: border-box;
