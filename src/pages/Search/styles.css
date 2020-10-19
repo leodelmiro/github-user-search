@@ -1,0 +1,81 @@
+.card-base-search {
+    background: #E6F7FF;
+}
+
+.card-base-search-profile {
+    padding: 65px 0 40px 95px;
+}
+
+.find-profile-title {
+    margin-bottom: 10px;
+    font-weight: 500;
+    font-size: 38px;
+    line-height: 46px;
+    color: #262626;
+}
+
+.input-profile-search {
+    display: block;
+    height: 40px;
+    width: 680px;
+    padding: 8px 27px 8px 17px;
+    margin-bottom: 25px;
+    border: 1px solid #D9D9D9;
+    box-sizing: border-box;
+    border-radius: 4px;
+    font-size: 16px;
+    line-height: 24px;
+    color: #000000;   
+}
+
+::placeholder {
+    color:  #BFBFBF;
+}
+
+.card-base-profile-info-container {
+    margin-bottom: 50px;
+}
+
+.info-content {
+    height: 335px;
+    padding: 25px 20px 25px 30px;
+    border-radius: 8px;
+    background: #F5F5F5;
+}
+
+.profile-data {
+    display: flex;
+}
+
+.profile-img {
+    width: 285px;
+    margin-bottom: 15px;
+}
+
+.upper-data{
+    display: flex;
+}
+
+.card-base-profile-info {
+    margin-left:60px;
+    width: 100%;
+}
+
+.profile-field-container {
+    height: 250px;
+    padding: 5px 15px 10px 15px;
+    background: #FFFFFF;
+    border: 1px solid #D9D9D9;
+    box-sizing: border-box;
+    border-radius: 6px;
+}
+
+.profile-field-title {
+    color: #1890FF;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 28px;
+    margin-bottom: 20px;
+}
+

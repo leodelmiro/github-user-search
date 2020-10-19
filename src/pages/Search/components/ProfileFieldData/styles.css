@@ -1,0 +1,24 @@
+.profile-field {
+    display: flex;
+    align-items: center;
+    height: 30px;
+    padding: 5px 35px 5px 10px;
+    margin-bottom: 5px;
+    background: #FFFFFF;
+    border: 1px solid #D9D9D9;
+    border-radius: 4px;
+}
+
+.profile-field-name {
+    display: flex;
+    align-items: center;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 16px;
+    line-height: 24px;
+    color: #737373;
+}
+
+.profile-field-content {
+    font-weight: normal;
+}
