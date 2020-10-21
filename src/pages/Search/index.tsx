@@ -112,9 +112,11 @@ const Search = () => {
                             </div>
                         </div>
                         {!isLoading && 
-                        <Button
+                        <a href={user.html_url}>
+                             <Button
                             title="Ver perfil" 
-                        />
+                            />
+                        </a>
                         }
             </CardBase>
         </div>
